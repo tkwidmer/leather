@@ -3,7 +3,7 @@ include: ['_pages', '_pages/film', '_pages/writing', 'pages/photography']
 
 title:            Teagan Widmer
 email:            tkwidmer@gmail.com
-blog_title:       A Cubicle Of My Own
+blog_title:       A Shine of Bootblacks
 tagline:          Software Engineer and Writer
 url:              http://www.teaganwidmer.me
 paginate:         1

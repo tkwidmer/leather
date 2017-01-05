@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: leather_page
 title: Contact
 permalink: '/contact/'
 ---
