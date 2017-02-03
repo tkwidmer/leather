@@ -15,10 +15,16 @@ permalink: '/classes/'
 <div class="row headroom">
   <div class="col-sm-12">
     <h2> Classes Offered </h2>
+    <h4>
     <ul>
       <li>
         <a href="/classes/feeding_your_soul/">
           Feeding Your Sole: Basic LeatherCare for the Average LeatherPerson
+        </a>
+      </li>
+      <li>
+        <a href="/classes/gear_up/">
+          Gear Up: Leather as Political Resistance
         </a>
       </li>
       <li>
@@ -28,5 +34,6 @@ permalink: '/classes/'
         (Co-Taught By Jesbian, Int'l Little Miss Little 2014)
       </li>
     </ul>
+    </h4>
   </div>
 </div>
