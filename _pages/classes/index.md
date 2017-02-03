@@ -6,8 +6,8 @@ permalink: '/classes/'
 
 <div class="row">
   <div class="col-sm-12">
-    Teagan is a talented educator. She holds a masters degree in theatre education and is now
-    years of experience as a teacher into he leather world. She has presented at Kinky Hallow and
+    Teagan is a talented educator. She holds a masters degree in theatre education and is now bringing
+    her years years of experience as a teacher into the leather world. She has presented at Kinky Hallow and
     The SF Exiles.
   </div>
 </div>
@@ -20,6 +20,12 @@ permalink: '/classes/'
         <a href="/classes/feeding_your_soul/">
           Feeding Your Sole: Basic LeatherCare for the Average LeatherPerson
         </a>
+      </li>
+      <li>
+        <a href="/classes/leather_lust/">
+          Leather Lust
+        </a>
+        (Co-Taught By Jesbian, Int'l Little Miss Little 2014)
       </li>
     </ul>
   </div>
