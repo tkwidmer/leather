@@ -6,9 +6,11 @@ permalink: '/classes/'
 
 <div class="row">
   <div class="col-sm-12">
-    Teagan is a talented educator. She holds a masters degree in theatre education and is now bringing
-    her years years of experience as a teacher into the leather world. She has presented at Kinky Hallow and
-    The SF Exiles.
+    <p>
+      Teagan is a talented educator. She holds a masters degree in theatre education and is now bringing
+      her years years of experience as a teacher into the leather world. She has presented at Kinky Hallow and
+      The SF Exiles.
+    </p>
   </div>
 </div>
 
