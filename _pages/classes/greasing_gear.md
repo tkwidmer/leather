@@ -1,7 +1,7 @@
 ---
 layout: leather_page
 title: "Gear Up: Leather as Political Resistance"
-permalink: '/classes/gear_up/'
+permalink: '/classes/greasing_gear/'
 ---
 
 ## Greasing Gear: Connection through Leathercare
