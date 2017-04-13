@@ -7,6 +7,7 @@ permalink: '/classes/'
 
 <div class="row headroom">
   <div class="col-sm-6">
+    <h4> Bios and Headshots </h4>
     <p>
       Teagan is a talented educator. She holds a MFA in theatre education from Virginia Commonwealth University and is now bringing her years years of experience as a teacher into the leather world. She has been a presenter for the SF Exiles, Kinky Hallow, Foundations.
     </p>
@@ -32,6 +33,10 @@ permalink: '/classes/'
           </li>
           <li>
             <b>Alchemist, Teacher, Healer: The Spirituality of LeatherCare</b><br>
+            Format: Discussion / Lecture
+          </li>
+          <li>
+            <b>Working for the Weekend: Bootblacking in Public </b> <br>
             Format: Discussion / Lecture
           </li>
 
