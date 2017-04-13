@@ -39,6 +39,10 @@ permalink: '/classes/'
             <b>Working for the Weekend: Bootblacking in Public </b> <br>
             Format: Discussion / Lecture
           </li>
+          <li>
+            <b> Greasing Gear: An Oil Tan and Garment Investigation</b> <br>
+            Format: Discussion / Lecture
+          </li>
 
         </ul>
       </li>
