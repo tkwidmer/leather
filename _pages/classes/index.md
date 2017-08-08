@@ -9,6 +9,10 @@ permalink: '/classes/'
   <div class="col-sm-6">
     <h4> Bios and Headshots </h4>
     <p>
+      <a href="/classes/bio/"> full bio with headshot</a>
+    </p>
+
+    <p>
       Teagan is a talented educator. She holds a MFA in theatre education from Virginia Commonwealth University and is now bringing her years years of experience as a teacher into the leather world. She has been a presenter for the SF Exiles, Kinky Hallow, Foundations.
     </p>
 
@@ -32,25 +36,24 @@ permalink: '/classes/'
             Format: Lecture / Demo / Discussion / QA
           </li>
           <li>
-            <b>Alchemist, Teacher, Healer: The Spirituality of LeatherCare</b><br>
+            <b><a href="/classes/doctor_is_in/">The Doctor Is In: Spiritual Bootblacking</a></b><br>
             Format: Discussion / Lecture
           </li>
           <li>
-            <b>Working for the Weekend: Bootblacking in Public </b> <br>
+            <b>Working on the Weekend: Bootblacking in Public </b> <br>
             Format: Discussion / Lecture
           </li>
           <li>
-            <b> Greasing Gear: An Oil Tan and Garment Investigation</b> <br>
+            <b> <a href="/classes/greasing_gear/"> Greasing Gear: An Oil Tan and Garment Investigation</a></b> <br>
             Format: Discussion / Lecture
           </li>
-
         </ul>
       </li>
       <li>
         <h4> Play </h4>
         <ul>
           <li>
-            <b>Under My Boot: Stomping and Bootplay for D/s</b><br>
+            <b><a href="/classes/under_my_boot/"> Under My Boot: Stomping and Bootplay for D/s</a></b><br>
             Format: Lecture / Demo / Discussion / Partnered Exploration
           </li>
           <li>
@@ -74,7 +77,7 @@ permalink: '/classes/'
         <h4> Other </h4>
         <ul>
           <li>
-            <b>Gear Up: Leather as Political Resistance</b><br>
+            <b><a href="/classes/gear_up/">Gear Up: Leather as Political Resistance</a></b><br>
             Format: Moderated Discussion
           </li>
         </ul>
