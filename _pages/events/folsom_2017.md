@@ -36,7 +36,7 @@ and interfacing with you making sure you have everything you need. She'll be giv
 - Angel
 
 <h5> 1:00-3:30pm </h5>
-- OPEN
+- Sean R
 - Lucky Rebel
 - Micky Rebel
 - Shelly
@@ -67,6 +67,3 @@ The playground also has bootblacks. Note that this is a space for Women and Tran
 <h5> 3:00-6:00pm </h5>
 - Kenzi
 - Shilo
-
-<h5> Teardown </h5>
-- Help Needed
