@@ -52,7 +52,7 @@ and interfacing with you making sure you have everything you need. She'll be giv
 <h5> Teardown </h5>
 - Help Needed
 
-## The Playground
+### The Playground
 
 The playground also has bootblacks. Note that this is a space for Women and Transgender Folks
 
